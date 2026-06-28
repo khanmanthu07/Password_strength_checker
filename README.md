@@ -14,5 +14,7 @@ This Python project checks whether a password is Weak, Medium, or Strong.
 Python
 
 ## Author
-Your Name# Password_strength_checker
-A simple Python project to check password strength.
+
+K Hanmanthu
+
+GitHub: khanmanthu07
